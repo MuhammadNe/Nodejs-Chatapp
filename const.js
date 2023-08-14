@@ -1,1 +1,1 @@
-const CHAT_ROOM = 'CHAT_ROOM_';
+module.exports.CHAT_ROOM = 'CHAT_ROOM_';
