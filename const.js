@@ -1,0 +1,1 @@
+const CHAT_ROOM = 'CHAT_ROOM_';

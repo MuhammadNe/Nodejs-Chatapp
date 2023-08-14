@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-chatapp",
+  "version": "1.0.0",
+  "description": "A Nodejs realtime chatapp using Redis Pub/Sub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "npx nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Redis",
+    "Pub/Sub",
+    "Realtime",
+    "Chat"
+  ],
+  "author": "Muhammad Neiroukh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "prompt-sync": "^4.2.0",
+    "redis": "^4.6.7",
+    "uuid": "^9.0.0"
+  }
+}
