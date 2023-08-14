@@ -11,5 +11,5 @@ An example of a Nodejs Chatapp using Redis Pub/Sub
 Runs the app in production mode.
 
 ### `npm run dev`
-Runs the app in dev nodemon monde.
+Runs the app in dev nodemon mode.
 
